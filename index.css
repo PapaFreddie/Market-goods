@@ -1,0 +1,33 @@
+
+h1{
+background-color: aquamarine;
+}
+
+.products{
+  display: flex;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  justify-content:space-between;
+  padding-left: 2%;
+  padding-right: 1%;
+  
+}
+p{
+text-align: justify;
+ column-gap: 0rem;
+justify-content: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
